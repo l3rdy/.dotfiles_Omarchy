@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tiny 11
+Comment=Start Windows VM (Tiny 11)
+Exec=/home/kev/.local/bin/tiny11-starter.sh
+Icon=/home/kev/.local/share/applications/icons/windows.png
+Terminal=false
+Type=Application
+Categories=System;Virtualization;
